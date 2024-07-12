@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1wy8XUSnNWlhDNazFdvGBHLfdkGvOHBKe#scroll
 
 
 https://meridian.allenpress.com/aplm/article/143/2/222/64743/A-Practical-Guide-to-Whole-Slide-Imaging-A-White
+
+
+https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
