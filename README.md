@@ -14,3 +14,6 @@ https://www.cbioportal.org/study/clinicalData?id=meso_tcga_pan_can_atlas_2018   
 https://www.nature.com/articles/s41598-023-38109-6 (ROI)
 
 https://colab.research.google.com/drive/1wy8XUSnNWlhDNazFdvGBHLfdkGvOHBKe#scrollTo=ZaHFhidyCBJa  (Image Classification example)
+
+
+https://meridian.allenpress.com/aplm/article/143/2/222/64743/A-Practical-Guide-to-Whole-Slide-Imaging-A-White
