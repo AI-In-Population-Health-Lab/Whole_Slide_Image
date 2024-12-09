@@ -1,7 +1,9 @@
 ### Instructions: 
 
 1. Paper review please check `powerpoint`
-2. 
+2. `whole_slide_beginning.ipynb` will be code tutorial.
+
+3. Video link: [video](https://pitt-my.sharepoint.com/:v:/g/personal/jos519_pitt_edu/ESu9pM8lPhhFqoOGbwOzdvMBze8r2PyV590-Nsx7YfrsxA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=TB5D55)
 
 
 
