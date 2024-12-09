@@ -1,3 +1,10 @@
+### Instructions: 
+
+1. Paper review please check `powerpoint`
+2. 
+
+
+
 #### reference  
 
 https://github.com/vkola-lab/tmi2022   
